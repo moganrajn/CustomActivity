@@ -1,0 +1,4 @@
+\\dwshome-c.homeoffice.wal-mart.com\dwsuserdata$\vn5013m\documents\visual studio 2015\Projects\CustomActivity\CustomActivity\bin\Debug\CustomActivity.dll
+\\dwshome-c.homeoffice.wal-mart.com\dwsuserdata$\vn5013m\documents\visual studio 2015\Projects\CustomActivity\CustomActivity\bin\Debug\CustomActivity.pdb
+\\dwshome-c.homeoffice.wal-mart.com\dwsuserdata$\vn5013m\documents\visual studio 2015\Projects\CustomActivity\CustomActivity\obj\Debug\CustomActivity.dll
+\\dwshome-c.homeoffice.wal-mart.com\dwsuserdata$\vn5013m\documents\visual studio 2015\Projects\CustomActivity\CustomActivity\obj\Debug\CustomActivity.pdb
